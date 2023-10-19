@@ -1,0 +1,7 @@
+{
+  "name": "ngxChart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
